@@ -8,9 +8,9 @@ A light violet and purple lavender inspired theme for Notepad++ (I did it in lik
 
 ## Features
 
-- Custom Font
+- A full out change of the appearance 
 - Minimalist, low-distraction appearance and cute af
-- Changes more that just the theme and fits good
+- Changes more than just the theme so it all fits good
 
 ## Installation
 
