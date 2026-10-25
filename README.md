@@ -2,10 +2,6 @@
 
 A light violet and purple lavender inspired theme for Notepad++ (I did it in like 4 hours and this is my first ever project) :<
 
-## Preview
-
-![Theme preview](Lavender Theme preview.png)
-
 ## Features
 
 - A full out change of the appearance 
